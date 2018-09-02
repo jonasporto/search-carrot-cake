@@ -1,4 +1,6 @@
+# Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text. 
 require 'watir'
+# driver for chrome, firefox, internet explorer, ...
 require 'webdrivers'
 
 url = 'https://tudogostoso.com.br'
